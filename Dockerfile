@@ -1,0 +1,1 @@
+FROM tananaev/traccar:latest
